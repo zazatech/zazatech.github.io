@@ -312,7 +312,9 @@ header .header-content .header-content-inner p {
   opacity: 1;
 }
 .portfolio-box:focus {
-  outline: none;
+/*  outline: none; */
+opacity: 1;
+
 }
 @media (min-width: 768px) {
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
